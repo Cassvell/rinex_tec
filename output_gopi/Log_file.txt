@@ -1,0 +1,2507 @@
+GPS_TEC .. Ver 3.03
+Compiled on .. Mon Dec  6 16:18:13 2021
+	-------------------------------------------------------------------
+Developed by
+Dr. Gopi K Seemala
+Indian Institute of Geomagnetism (IIG)
+Navi Mumbai, INDIA
+email: Gopi.Seemala@Gmail.com
+	---- Previous affiliations ----
+RISH, Kyoto University, Kyoto, JAPAN
+ISR, Boston College, Boston, USA
+Physics Department, Andhra University, Visakhapatnam, INDIA
+	-------------------------------------------------------------------
+This program is developed only for research/testing purpose and not for public release! Therefore, I/we do not owe any kind of direct/indirect liabilities caused by this application. Hence you have to use this application at your own responsibility! 
+By using this program you are agreed to the above!
+ © 2021 Gopi Seemala
+	-------------------------------------------------------------------
+
+ No file was selected or dropped into program
+You can open a file using Right click anywhere on window.. 
+ The file chosen by you was   C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0010.22o
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n.Z
+
+ DCB file(s) not found..
+----Accessing Internet to download file!!---
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0010.22o
+ ... end of file..
+Rinex obs read (132699 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	3.3	13.7
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-3.8	4.4
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-3.3	-24.3
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.8 stage2= 0.6 Total= -69.2
+Averages Min. TEC = 0.0 and Max. TEC = 16.5
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe001-2022-01-01_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe001-2022-01-01.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0020.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0020.22o
+ ... end of file..
+Rinex obs read (132722 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.6 stage2= 0.4 Total= -70.2
+Averages Min. TEC = 0.0 and Max. TEC = 16.7
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe002-2022-01-02_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe002-2022-01-02.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0030.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0030.22o
+ ... end of file..
+Rinex obs read (132730 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-3.8	4.4
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-3.7	-24.6
+25	-23.4	-0.0	-23.4
+26	-13.6	-4.0	-17.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.0 stage2= 0.5 Total= -69.5
+Averages Min. TEC = 0.0 and Max. TEC = 16.7
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe003-2022-01-03_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe003-2022-01-03.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0040.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0040.22o
+ ... end of file..
+Rinex obs read (132708 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-2.4	-23.3
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.9 stage2= -0.2 Total= -70.1
+Averages Min. TEC = 0.0 and Max. TEC = 13.1
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe004-2022-01-04_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe004-2022-01-04.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0050.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0050.22o
+ ... end of file..
+Rinex obs read (132726 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-2.4	-23.4
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.4 stage2= 0.9 Total= -69.5
+Averages Min. TEC = 0.0 and Max. TEC = 11.9
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe005-2022-01-05_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe005-2022-01-05.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0060.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0060.22o
+ ... end of file..
+Rinex obs read (132709 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-5.2	3.0
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -68.4 stage2= -0.1 Total= -68.5
+Averages Min. TEC = 0.0 and Max. TEC = 12.5
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe006-2022-01-06_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe006-2022-01-06.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0070.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0070.22o
+ ... end of file..
+Rinex obs read (132732 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.1 stage2= 0.2 Total= -68.9
+Averages Min. TEC = 0.0 and Max. TEC = 10.9
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe007-2022-01-07_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe007-2022-01-07.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0080.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0080.22o
+ ... end of file..
+Rinex obs read (132762 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-2.6	-23.6
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.7 stage2= 1.1 Total= -69.6
+Averages Min. TEC = 0.0 and Max. TEC = 14.7
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe008-2022-01-08_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe008-2022-01-08.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0090.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0090.22o
+ ... end of file..
+Rinex obs read (132746 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.7 stage2= -0.1 Total= -69.8
+Averages Min. TEC = 0.0 and Max. TEC = 16.7
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe009-2022-01-09_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe009-2022-01-09.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0100.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0100.22o
+ ... end of file..
+Rinex obs read (132752 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-4.3	-22.2
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-3.1	-24.1
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.8 stage2= 0.9 Total= -68.9
+Averages Min. TEC = 0.0 and Max. TEC = 16.1
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe010-2022-01-10_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe010-2022-01-10.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0110.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0110.22o
+ ... end of file..
+Rinex obs read (132719 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-3.0	-20.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-3.5	-24.5
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -68.7 stage2= 0.5 Total= -68.2
+Averages Min. TEC = 0.0 and Max. TEC = 15.7
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe011-2022-01-11_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe011-2022-01-11.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0120.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0120.22o
+ ... end of file..
+Rinex obs read (132732 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-4.9	-22.8
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-3.3	-24.3
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -68.0 stage2= -0.3 Total= -68.3
+Averages Min. TEC = 0.0 and Max. TEC = 14.5
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe012-2022-01-12_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe012-2022-01-12.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0130.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0130.22o
+ ... end of file..
+Rinex obs read (132730 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-4.4	-22.2
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.0 stage2= -0.2 Total= -69.2
+Averages Min. TEC = 0.0 and Max. TEC = 18.0
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe013-2022-01-13_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe013-2022-01-13.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0140.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0140.22o
+ ... end of file..
+Rinex obs read (132717 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-8.0	-25.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-3.1	-24.1
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -68.6 stage2= -0.7 Total= -69.3
+Averages Min. TEC = 0.0 and Max. TEC = 25.3
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe014-2022-01-14_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe014-2022-01-14.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0150.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0150.22o
+ ... end of file..
+Rinex obs read (132698 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-5.4	-26.4
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.6 stage2= 0.1 Total= -69.5
+Averages Min. TEC = 0.0 and Max. TEC = 19.4
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe015-2022-01-15_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe015-2022-01-15.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0160.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0160.22o
+ ... end of file..
+Rinex obs read (132682 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-11.1	-29.0
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-4.1	6.2
+17	5.2	-0.0	5.2
+18	18.5	-4.7	13.8
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.8 stage2= 1.1 Total= -69.7
+Averages Min. TEC = 0.0 and Max. TEC = 17.1
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe016-2022-01-16_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe016-2022-01-16.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0170.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0170.22o
+ ... end of file..
+Rinex obs read (132706 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-7.3	-25.2
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-0.0	21.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -68.5 stage2= 0.0 Total= -68.5
+Averages Min. TEC = 0.0 and Max. TEC = 18.0
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe017-2022-01-17_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe017-2022-01-17.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0180.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0180.22o
+ ... end of file..
+Rinex obs read (129523 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-4.4	-22.3
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	5.4	-0.0	5.4
+22	-15.4	-0.0	-15.4
+23	-21.0	-0.0	-21.0
+24	-23.4	-0.0	-23.4
+25	-13.6	-0.0	-13.6
+26	8.2	-0.0	8.2
+27	-17.9	-0.0	-17.9
+28	14.0	-0.0	14.0
+29	-11.6	-0.0	-11.6
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.2 stage2= 0.5 Total= -68.7
+Averages Min. TEC = 0.0 and Max. TEC = 19.7
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe018-2022-01-18_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe018-2022-01-18.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0190.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0190.22o
+ ... end of file..
+Rinex obs read (129915 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-5.2	-23.1
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	5.4	-0.0	5.4
+22	-15.4	-0.0	-15.4
+23	-21.0	-0.0	-21.0
+24	-23.4	-0.0	-23.4
+25	-13.6	-0.0	-13.6
+26	8.2	-0.0	8.2
+27	-17.9	-0.0	-17.9
+28	14.0	-0.0	14.0
+29	-11.6	-0.0	-11.6
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.2 stage2= 0.2 Total= -69.0
+Averages Min. TEC = 0.0 and Max. TEC = 17.7
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe019-2022-01-19_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe019-2022-01-19.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0200.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0200.22o
+ ... end of file..
+Rinex obs read (129921 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-4.5	-22.4
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	5.4	-0.0	5.4
+22	-15.4	-0.0	-15.4
+23	-21.0	-0.0	-21.0
+24	-23.4	-0.0	-23.4
+25	-13.6	-0.0	-13.6
+26	8.2	-0.0	8.2
+27	-17.9	-0.0	-17.9
+28	14.0	-0.0	14.0
+29	-11.6	-0.0	-11.6
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -67.8 stage2= -0.8 Total= -68.6
+Averages Min. TEC = 0.0 and Max. TEC = 16.9
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe020-2022-01-20_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe020-2022-01-20.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0210.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0210.22o
+ ... end of file..
+Rinex obs read (129975 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-4.0	-21.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	5.4	-0.0	5.4
+22	-15.4	-0.0	-15.4
+23	-21.0	-0.0	-21.0
+24	-23.4	-0.0	-23.4
+25	-13.6	-0.0	-13.6
+26	8.2	-0.0	8.2
+27	-17.9	-0.0	-17.9
+28	14.0	-0.0	14.0
+29	-11.6	-0.0	-11.6
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.3 stage2= 0.9 Total= -68.4
+Averages Min. TEC = 0.0 and Max. TEC = 15.3
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe021-2022-01-21_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe021-2022-01-21.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0220.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0220.22o
+ ... end of file..
+Rinex obs read (129958 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-3.0	5.2
+21	5.4	-0.0	5.4
+22	-15.4	-0.0	-15.4
+23	-21.0	-0.0	-21.0
+24	-23.4	-0.0	-23.4
+25	-13.6	-0.0	-13.6
+26	8.2	-0.0	8.2
+27	-17.9	-0.0	-17.9
+28	14.0	-0.0	14.0
+29	-11.6	-0.0	-11.6
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.5 stage2= 1.0 Total= -68.5
+Averages Min. TEC = 0.0 and Max. TEC = 18.3
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe022-2022-01-22_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe022-2022-01-22.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0230.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0230.22o
+ ... end of file..
+Rinex obs read (129956 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	5.4	-0.0	5.4
+22	-15.4	-0.0	-15.4
+23	-21.0	-0.0	-21.0
+24	-23.4	-0.0	-23.4
+25	-13.6	-0.0	-13.6
+26	8.2	-0.0	8.2
+27	-17.9	-0.0	-17.9
+28	14.0	-0.0	14.0
+29	-11.6	-0.0	-11.6
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.1 stage2= 0.6 Total= -69.5
+Averages Min. TEC = 0.0 and Max. TEC = 14.6
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe023-2022-01-23_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe023-2022-01-23.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0240.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0240.22o
+ ... end of file..
+Rinex obs read (130992 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-3.9	-21.8
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-3.4	4.8
+21	21.0	-37.1	-16.1
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-2.8	-23.8
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -72.1 stage2= 1.5 Total= -70.6
+Averages Min. TEC = 0.0 and Max. TEC = 16.1
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe024-2022-01-24_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe024-2022-01-24.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0250.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0250.22o
+ ... end of file..
+Rinex obs read (133848 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-4.8	3.4
+21	21.0	-27.7	-6.7
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-2.9	-23.9
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -72.0 stage2= 1.6 Total= -70.4
+Averages Min. TEC = 0.0 and Max. TEC = 28.2
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe025-2022-01-25_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe025-2022-01-25.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0260.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0260.22o
+ ... end of file..
+Rinex obs read (133802 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-4.5	3.7
+21	21.0	-30.0	-9.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.0 stage2= -0.2 Total= -70.2
+Averages Min. TEC = 0.0 and Max. TEC = 20.6
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe026-2022-01-26_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe026-2022-01-26.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0270.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0270.22o
+ ... end of file..
+Rinex obs read (133848 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-26.5	-5.5
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.4 stage2= 1.4 Total= -69.0
+Averages Min. TEC = 0.0 and Max. TEC = 19.0
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe027-2022-01-27_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe027-2022-01-27.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0280.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0280.22o
+ ... end of file..
+Rinex obs read (133856 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-29.0	-8.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.4 stage2= 0.1 Total= -69.3
+Averages Min. TEC = 0.0 and Max. TEC = 21.8
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe028-2022-01-28_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe028-2022-01-28.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0290.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0290.22o
+ ... end of file..
+Rinex obs read (133888 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-0.0	5.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-3.0	5.2
+21	21.0	-27.5	-6.5
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-5.7	-26.7
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.8 stage2= 1.0 Total= -68.8
+Averages Min. TEC = 0.0 and Max. TEC = 17.2
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe029-2022-01-29_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe029-2022-01-29.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0300.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0300.22o
+ ... end of file..
+Rinex obs read (133904 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-0.0	22.1
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-9.6	-3.9
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-28.0	-7.0
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -71.0 stage2= 1.3 Total= -69.7
+Averages Min. TEC = 0.0 and Max. TEC = 19.4
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe030-2022-01-30_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe030-2022-01-30.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0310.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0310.22o
+ ... end of file..
+Rinex obs read (133892 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.1	-10.9	11.2
+2	-13.9	-0.0	-13.9
+3	-1.8	-0.0	-1.8
+4	10.1	-0.0	10.1
+5	-17.9	-0.0	-17.9
+6	10.1	-0.0	10.1
+7	-19.8	-0.0	-19.8
+8	-12.6	-0.0	-12.6
+9	-15.0	-0.0	-15.0
+10	5.7	-8.4	-2.7
+11	12.3	-0.0	12.3
+12	10.4	-0.0	10.4
+13	4.2	-0.0	4.2
+14	9.4	-0.0	9.4
+15	9.0	-0.0	9.0
+16	10.3	-0.0	10.3
+17	5.2	-0.0	5.2
+18	18.5	-0.0	18.5
+19	5.3	-0.0	5.3
+20	8.2	-0.0	8.2
+21	21.0	-30.5	-9.5
+22	5.4	-0.0	5.4
+23	-15.4	-0.0	-15.4
+24	-21.0	-0.0	-21.0
+25	-23.4	-0.0	-23.4
+26	-13.6	-0.0	-13.6
+27	8.2	-0.0	8.2
+28	-17.9	-0.0	-17.9
+29	14.0	-0.0	14.0
+30	-11.6	-0.0	-11.6
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.5 stage2= 0.5 Total= -69.0
+Averages Min. TEC = 0.0 and Max. TEC = 24.0
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe031-2022-01-31_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe031-2022-01-31.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0320.22n.Z
+
+ DCB file(s) not found..
+----Accessing Internet to download file!!---
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0320.22o
+ ... end of file..
+Rinex obs read (192053 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.7	-6.4	16.3
+2	-13.4	-0.0	-13.4
+3	-1.1	-0.0	-1.1
+4	10.8	-0.0	10.8
+5	-17.3	-0.0	-17.3
+6	10.8	-0.0	10.8
+7	-19.0	-0.0	-19.0
+8	-11.9	-0.0	-11.9
+9	-14.4	-0.0	-14.4
+10	6.3	-4.5	1.8
+11	12.9	-0.0	12.9
+12	11.1	-0.0	11.1
+13	4.9	-0.0	4.9
+14	10.1	-0.0	10.1
+15	9.6	-0.0	9.6
+16	10.9	-0.0	10.9
+17	5.8	-0.0	5.8
+18	19.0	-0.0	19.0
+19	6.0	-0.0	6.0
+20	8.8	-0.0	8.8
+21	5.0	-10.1	-5.1
+22	6.0	-0.0	6.0
+23	-14.6	-0.0	-14.6
+24	-20.4	-0.0	-20.4
+25	-22.8	-0.0	-22.8
+26	-12.8	-0.0	-12.8
+27	8.9	-0.0	8.9
+28	-17.2	-0.0	-17.2
+29	14.7	-0.0	14.7
+30	-11.0	-0.0	-11.0
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.0 stage2= 1.2 Total= -68.8
+Averages Min. TEC = 0.0 and Max. TEC = 20.5
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe032-2022-02-01_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe032-2022-02-01.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0330.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0330.22o
+ ... end of file..
+Rinex obs read (121994 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.7	-8.1	14.6
+2	-13.4	-0.0	-13.4
+3	-1.1	-0.0	-1.1
+4	10.8	-0.0	10.8
+5	-17.3	-0.0	-17.3
+6	10.8	-0.0	10.8
+7	-19.0	-0.0	-19.0
+8	-11.9	-0.0	-11.9
+9	-14.4	-0.0	-14.4
+10	6.3	-8.3	-1.9
+11	12.9	-0.0	12.9
+12	11.1	-0.0	11.1
+13	4.9	-0.0	4.9
+14	10.1	-0.0	10.1
+15	9.6	-0.0	9.6
+16	10.9	-0.0	10.9
+17	5.8	-0.0	5.8
+18	19.0	-0.0	19.0
+19	6.0	-0.0	6.0
+20	8.8	-0.0	8.8
+21	5.0	-10.8	-5.7
+22	6.0	-0.0	6.0
+23	-14.6	-0.0	-14.6
+24	-20.4	-0.0	-20.4
+25	-22.8	-0.0	-22.8
+26	-12.8	-0.0	-12.8
+27	8.9	-0.0	8.9
+28	-17.2	-0.0	-17.2
+29	14.7	-0.0	14.7
+30	-11.0	-0.0	-11.0
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.4 stage2= 0.4 Total= -69.0
+Averages Min. TEC = 0.0 and Max. TEC = 22.8
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe033-2022-02-02_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe033-2022-02-02.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0340.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0340.22o
+ ... end of file..
+Rinex obs read (122004 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.7	-21.1	1.5
+2	-13.4	-0.0	-13.4
+3	-1.1	-0.0	-1.1
+4	10.8	-0.0	10.8
+5	-17.3	-4.0	-21.3
+6	10.8	-0.0	10.8
+7	-19.0	-0.0	-19.0
+8	-11.9	-0.0	-11.9
+9	-14.4	-0.0	-14.4
+10	6.3	-18.6	-12.3
+11	12.9	-0.0	12.9
+12	11.1	-0.0	11.1
+13	4.9	-0.0	4.9
+14	10.1	-0.0	10.1
+15	9.6	-0.0	9.6
+16	10.9	-4.5	6.4
+17	5.8	-0.0	5.8
+18	19.0	-0.0	19.0
+19	6.0	-0.0	6.0
+20	8.8	-0.0	8.8
+21	5.0	-12.3	-7.3
+22	6.0	-0.0	6.0
+23	-14.6	-0.0	-14.6
+24	-20.4	-0.0	-20.4
+25	-22.8	-0.0	-22.8
+26	-12.8	-0.0	-12.8
+27	8.9	-0.0	8.9
+28	-17.2	-0.0	-17.2
+29	14.7	-0.0	14.7
+30	-11.0	-0.0	-11.0
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.9 stage2= 1.3 Total= -69.6
+Averages Min. TEC = 0.0 and Max. TEC = 43.0
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe034-2022-02-03_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe034-2022-02-03.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0350.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0350.22o
+ ... end of file..
+Rinex obs read (131822 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.7	-19.4	3.3
+2	-13.4	-0.0	-13.4
+3	-1.1	-0.0	-1.1
+4	10.8	-0.0	10.8
+5	-17.3	-5.7	-23.0
+6	10.8	-0.0	10.8
+7	-19.0	-0.0	-19.0
+8	-11.9	-0.0	-11.9
+9	-14.4	-0.0	-14.4
+10	6.3	-18.8	-12.5
+11	12.9	-0.0	12.9
+12	11.1	-0.0	11.1
+13	4.9	-0.0	4.9
+14	10.1	-0.0	10.1
+15	9.6	-0.0	9.6
+16	10.9	-4.0	6.9
+17	5.8	-0.0	5.8
+18	19.0	-0.0	19.0
+19	6.0	-0.0	6.0
+20	8.8	-0.0	8.8
+21	5.0	-15.7	-10.7
+22	6.0	-0.0	6.0
+23	-14.6	-0.0	-14.6
+24	-20.4	-0.0	-20.4
+25	-22.8	-0.0	-22.8
+26	-12.8	-0.0	-12.8
+27	8.9	-0.0	8.9
+28	-17.2	-0.0	-17.2
+29	14.7	-0.0	14.7
+30	-11.0	-0.0	-11.0
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.9 stage2= 1.1 Total= -69.8
+Averages Min. TEC = 0.0 and Max. TEC = 48.1
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe035-2022-02-04_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe035-2022-02-04.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0360.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0360.22o
+ ... end of file..
+Rinex obs read (133894 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.7	-3.6	19.1
+2	-13.4	-0.0	-13.4
+3	-1.1	-0.0	-1.1
+4	10.8	-0.0	10.8
+5	-17.3	-0.0	-17.3
+6	10.8	-0.0	10.8
+7	-19.0	-0.0	-19.0
+8	-11.9	-0.0	-11.9
+9	-14.4	-0.0	-14.4
+10	6.3	-5.1	1.2
+11	12.9	-0.0	12.9
+12	11.1	-0.0	11.1
+13	4.9	-0.0	4.9
+14	10.1	-0.0	10.1
+15	9.6	-0.0	9.6
+16	10.9	-0.0	10.9
+17	5.8	-0.0	5.8
+18	19.0	-0.0	19.0
+19	6.0	-0.0	6.0
+20	8.8	-0.0	8.8
+21	5.0	-15.2	-10.2
+22	6.0	-0.0	6.0
+23	-14.6	-0.0	-14.6
+24	-20.4	-2.5	-22.9
+25	-22.8	-0.0	-22.8
+26	-12.8	-4.1	-16.9
+27	8.9	-0.0	8.9
+28	-17.2	-0.0	-17.2
+29	14.7	-0.0	14.7
+30	-11.0	-0.0	-11.0
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -68.3 stage2= 0.9 Total= -67.4
+Averages Min. TEC = 0.0 and Max. TEC = 30.2
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe036-2022-02-05_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe036-2022-02-05.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0370.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0370.22o
+ ... end of file..
+Rinex obs read (133908 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.7	-6.1	16.6
+2	-13.4	-0.0	-13.4
+3	-1.1	-0.0	-1.1
+4	10.8	-0.0	10.8
+5	-17.3	-3.6	-20.9
+6	10.8	-0.0	10.8
+7	-19.0	-0.0	-19.0
+8	-11.9	-0.0	-11.9
+9	-14.4	-0.0	-14.4
+10	6.3	-7.4	-1.1
+11	12.9	-0.0	12.9
+12	11.1	-0.0	11.1
+13	4.9	-0.0	4.9
+14	10.1	-0.0	10.1
+15	9.6	-0.0	9.6
+16	10.9	-0.0	10.9
+17	5.8	-0.0	5.8
+18	19.0	-0.0	19.0
+19	6.0	-0.0	6.0
+20	8.8	-0.0	8.8
+21	5.0	-11.1	-6.1
+22	6.0	-0.0	6.0
+23	-14.6	-0.0	-14.6
+24	-20.4	-0.0	-20.4
+25	-22.8	-0.0	-22.8
+26	-12.8	-0.0	-12.8
+27	8.9	-0.0	8.9
+28	-17.2	-0.0	-17.2
+29	14.7	-0.0	14.7
+30	-11.0	-0.0	-11.0
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.3 stage2= 1.0 Total= -68.3
+Averages Min. TEC = 0.0 and Max. TEC = 23.7
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe037-2022-02-06_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe037-2022-02-06.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0380.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0380.22o
+ ... end of file..
+Rinex obs read (133023 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.7	-3.5	19.2
+2	-13.4	-0.0	-13.4
+3	-1.1	-0.0	-1.1
+4	10.8	-0.0	10.8
+5	-17.3	-0.0	-17.3
+6	10.8	-0.0	10.8
+7	-19.0	-0.0	-19.0
+8	-11.9	-0.0	-11.9
+9	-14.4	-0.0	-14.4
+10	6.3	-4.8	1.5
+11	12.9	-0.0	12.9
+12	11.1	-0.0	11.1
+13	4.9	-0.0	4.9
+14	10.1	-0.0	10.1
+15	9.6	-0.0	9.6
+16	10.9	-0.0	10.9
+17	5.8	-0.0	5.8
+18	19.0	-0.0	19.0
+19	6.0	-0.0	6.0
+20	8.8	-0.0	8.8
+21	5.0	-7.0	-1.9
+22	6.0	-0.0	6.0
+23	-14.6	-0.0	-14.6
+24	-20.4	-0.0	-20.4
+25	-22.8	-0.0	-22.8
+26	-12.8	-0.0	-12.8
+27	8.9	-0.0	8.9
+28	-17.2	-0.0	-17.2
+29	14.7	-0.0	14.7
+30	-11.0	-0.0	-11.0
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -69.4 stage2= 0.5 Total= -68.9
+Averages Min. TEC = 0.0 and Max. TEC = 20.8
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe038-2022-02-07_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe038-2022-02-07.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0390.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0390.22o
+ ... end of file..
+Rinex obs read (191657 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.7	-0.0	22.7
+2	-13.4	-0.0	-13.4
+3	-1.1	-0.0	-1.1
+4	10.8	-0.0	10.8
+5	-17.3	-0.0	-17.3
+6	10.8	-0.0	10.8
+7	-19.0	-0.0	-19.0
+8	-11.9	-0.0	-11.9
+9	-14.4	-0.0	-14.4
+10	6.3	-4.9	1.4
+11	12.9	-0.0	12.9
+12	11.1	-0.0	11.1
+13	4.9	-0.0	4.9
+14	10.1	-0.0	10.1
+15	9.6	-0.0	9.6
+16	10.9	-0.0	10.9
+17	5.8	-0.0	5.8
+18	19.0	-0.0	19.0
+19	6.0	-0.0	6.0
+20	8.8	-0.0	8.8
+21	5.0	-10.0	-5.0
+22	6.0	-0.0	6.0
+23	-14.6	-0.0	-14.6
+24	-20.4	-2.5	-22.9
+25	-22.8	-0.0	-22.8
+26	-12.8	-0.0	-12.8
+27	8.9	-0.0	8.9
+28	-17.2	-0.0	-17.2
+29	14.7	-0.0	14.7
+30	-11.0	-0.0	-11.0
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -67.6 stage2= -0.9 Total= -68.5
+Averages Min. TEC = 0.0 and Max. TEC = 23.3
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe039-2022-02-08_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe039-2022-02-08.Cmn
+
+End of common process...........
+
+ Navigation file not found..
+----Accessing Internet to download file!!---
+
+Navigation file is..C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0400.22n.Z
+
+Reading DCB file(s).... done!
+Reading nav file C:\users\c-isaac\Mis Documentos\rinex_ucoe\chpi0010.22n ..done!
+Reading Rinex Obs. file C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe0400.22o
+ ... end of file..
+Rinex obs read (180134 lines, 5760 epochs, 0 lines discarded)
+ ..DONE..
+Obs. file read completed.... 
+
+INFO: @RAW analyse: Data interval = 15.00 Secs
+
+Station Lat 19.813, Lon -101.694, Alt 1975.200
+Summary of biases applied in TEC units as...
+Desired TEC = calc.TEC + Rx_bias + PRN_bias(Sat.bias + interchannel bias)
+
+PRN	SatBias	iChnBias	Total
+1	22.7	-5.0	17.6
+2	-13.4	-0.0	-13.4
+3	-1.1	-0.0	-1.1
+4	10.8	-0.0	10.8
+5	-17.3	-0.0	-17.3
+6	10.8	-0.0	10.8
+7	-19.0	-0.0	-19.0
+8	-11.9	-0.0	-11.9
+9	-14.4	-0.0	-14.4
+10	6.3	-6.0	0.3
+11	12.9	-0.0	12.9
+12	11.1	-0.0	11.1
+13	4.9	-0.0	4.9
+14	10.1	-0.0	10.1
+15	9.6	-0.0	9.6
+16	10.9	-0.0	10.9
+17	5.8	-0.0	5.8
+18	19.0	-0.0	19.0
+19	6.0	-0.0	6.0
+20	8.8	-0.0	8.8
+21	5.0	-9.7	-4.7
+22	6.0	-0.0	6.0
+23	-14.6	-0.0	-14.6
+24	-20.4	-0.0	-20.4
+25	-22.8	-0.0	-22.8
+26	-12.8	-0.0	-12.8
+27	8.9	-0.0	8.9
+28	-17.2	-0.0	-17.2
+29	14.7	-0.0	14.7
+30	-11.0	-0.0	-11.0
+31	-0.0	-0.0	-0.0
+32	-0.0	-0.0	-0.0
+
+RxBias (TEC units) stage1= -70.5 stage2= 1.0 Total= -69.5
+Averages Min. TEC = 0.0 and Max. TEC = 23.1
+Sign used is 1.0
+Plotting 24Hr TEC: 
+Plot saved... C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe040-2022-02-09_page0.png
+Writing CMN-O/P file... 	C:\users\c-isaac\Mis Documentos\rinex_ucoe\ucoe040-2022-02-09.Cmn
+
+End of common process...........
